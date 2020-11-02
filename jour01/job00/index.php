@@ -1,1 +1,6 @@
-index.php
+
+<?php
+
+echo ("Hello La plateforme!")
+
+?>
