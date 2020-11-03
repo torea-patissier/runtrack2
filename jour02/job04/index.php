@@ -16,8 +16,9 @@ while ($num <=100)
     }
 
     elseif ($num %3 == 0 AND $num %5 == 0){
-        echo"FizzBuzz";
+        echo "FizzBuzz";
     }
+
 
 }
 ?>
